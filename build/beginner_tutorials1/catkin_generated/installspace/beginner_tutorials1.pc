@@ -1,0 +1,8 @@
+prefix=/home/vikramha/catkin_ws/install
+
+Name: beginner_tutorials1
+Description: Description of beginner_tutorials1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
